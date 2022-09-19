@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Quicksand', sans-serif;
+    background-color: #DADADA;
+}
+nav{
+    display: flex;
+    position: absolute;
+    width: 319px;
+    height: 45px;   
+    left: 401px;
+    top: 50px;
+}
+.kiri-besar{
+    position: absolute;
+    width: 300px;
+    height: 976px;
+    top: 24px;
+    left: 20px;
+    right: 20px;
+    bottom: 24px;
+    border-radius: 20px;
+    background-color: #7F1D9F;
+
+}
+.logo{
+    position:absolute;
+    width: 280px;
+    height: 70px;
+    padding-top: 24px;
+    padding-left: 20px;
+    background: #571F69;
+    border-radius: 20px;
+    display: flex;
+}
+.user{
+    position: absolute;
+    left: 90px;
+    top: 30px;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 30px;
+    background-color: transparent;
+}
+
+img{
+    height: 45px;
+    width: 45px;
+    border-radius: 50%;
+}
+.menu-tampilan{
+    display: flex;
+    padding-top: 120px;
+    background-color:transparent ;
+    padding-left: 20px;
+    font-weight:600;
+    font-size: 20px;
+}
+.menu-tampilan a{
+    background-color: transparent;
+}
